@@ -1,6 +1,7 @@
-# discord-texter
+# Name:
+- discord-texter
  
-#URL (To Test The App):
+# URL (To Test The App):
 - https://discord-texter-frontend.vercel.app/
  
 # Description:
