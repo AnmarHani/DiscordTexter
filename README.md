@@ -22,3 +22,5 @@
 - GraphQL & Apollo Server
 - Discord js
 - Mongoose
+## Database
+- NoSQL | MongoDB
