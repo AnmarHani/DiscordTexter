@@ -1,5 +1,5 @@
 # Name:
-- discord-texter
+- DiscordTexter
  
 # URL Demo:
 - https://discord-texter-frontend.vercel.app/
